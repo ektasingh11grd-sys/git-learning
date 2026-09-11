@@ -1,0 +1,13 @@
+git init(initialize) -> ek folder git repo banaata hai directory -> git repo
+
+
+git status -s => untracked/modified/Added
+
+git log => history 
+
+
+git add => 3 file add/1 file modify  
+
+git commit
+
+
