@@ -8,6 +8,10 @@ git log => history
 
 git add => 3 file add/1 file modify  
 
-git commit
+git commit -m "added 3 new files"
 
 
+git remote -v 
+
+
+ git push --set-upstream origin main
